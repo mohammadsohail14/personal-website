@@ -1,0 +1,79 @@
+
+.topcontainer{
+    background-color:  #d6ead9;
+    height: 80vh;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    margin-top: 180px;
+    font-size: 50pt;
+}
+#awebdeveloper{
+    font-size: 25pt;
+    font-family: 'Oswald', sans-serif;
+}
+#myimage{
+    border-radius: 50%;
+}
+.top-diamond{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bot-diamond{
+    position: absolute;
+    left: 300px;
+    margin: bottom 0px; ;
+}
+#description{
+    font-family: 'Oswald', sans-serif;
+}
+#hello{
+    color: #4c9156;
+    
+}
+.dots{
+    font-size: 30pt;
+    color: #b4daba; 
+}
+
+#myskills{
+    
+    left: 38px;
+    color: #4c9156 ;
+}
+#alwd{
+    text-align: center;
+    font-size: 18pt;
+    font-family: 'Oswald', sans-serif;
+    color:#208330 ;   
+}
+
+#alwddes{
+    font-size: 13pt;
+    font-weight: 300;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+}
+#coding-gif{
+    height: 190px;
+    margin-left: 70px ;
+}
+#photoshop{
+    height: 220px;
+    margin-left: 130px ;
+}
+#photoshopdes{
+    font-size: 13pt;
+    font-family: 'Oswald', sans-serif;
+}
+#getintouch{
+    color: #4c9156;
+    font-family: 'Oswald', sans-serif;
+}
+#query-button{
+    font-family: 'Oswald', sans-serif;
+}
+#footer1{
+    background-color: #d6ead9 ;
+}
